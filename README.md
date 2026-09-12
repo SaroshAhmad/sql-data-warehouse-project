@@ -83,6 +83,6 @@ Released under the MIT License — free to use, modify and share with attributio
 
 ## About Me
 
-I'm **Ahmad Sarosh**, an IT professional currently looking for roles in Data Analytics, Data Engineering and Software Engineering.
+I'm **Ahmad Sarosh**, an IT professional currently looking for roles in Data Analytics or Data Engineering or Software Engineering.
 
 Feel free to get in touch — **ahmadsarosh07@gmail.com**
